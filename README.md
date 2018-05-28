@@ -10,3 +10,7 @@
 # node
 
 服务端包
+
+# redis
+
+key-value数据库
